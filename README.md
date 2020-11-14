@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, i'm snutij, also knew as Justin
 
-<!--
-**snutij/snutij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇫🇷&nbsp; I'm a front-end developer for a company in Nantes, France.
 
-Here are some ideas to get you started:
+🏗️&nbsp; Github serves me as a sandbox to learn a lot of different stuff. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝&nbsp; Feel free to fork / use / copy everything on these repos I don't care.
+
+👨‍💻&nbsp; I'm working mainly on typescript stuff, as Angular, Typescript everywhere.
+
+💻&nbsp; I use mainly Linux and MacOS as system.
+
+💬&nbsp; Contact for what you want.
+
+
+
+
