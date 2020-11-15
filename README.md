@@ -6,9 +6,9 @@
 
 🤝&nbsp; Feel free to fork / use / copy everything on these repos I don't care.
 
-👨‍💻&nbsp; I'm working mainly on typescript stuff, as Angular, Typescript everywhere.
+👨‍💻&nbsp; I'm working mainly on typescript project as Angular.
 
-💻&nbsp; I use mainly Linux and MacOS as system.
+💻&nbsp; I use Linux and MacOS as system.
 
 💬&nbsp; Contact for what you want.
 
