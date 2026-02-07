@@ -13,7 +13,6 @@
 
 - 🏥 **[Doctolib](https://www.doctolib.fr)** - AI-native solutions in the health tech sector
 - 🎮 **[esport_ics](https://github.com/snutij/esport_ics)** - ICS calendars for esport teams — never miss a match
-- 🏷️ **[crowd-codes](https://github.com/snutij/crowd-codes)** - Community-driven promo code aggregator from YouTube
 - 📷 **[bw-evaluation](https://github.com/snutij/bw-evaluation)** - Pre-filter and select best B&W candidates from large photo collections
 
 ## OSS Contributions
