@@ -5,13 +5,12 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-> Building tools for developers and gamers. Contributing to the Ruby ecosystem by day, shipping side projects by night.
+> I write code, contribute to OSS, and build things I care about.
 
 ## What I'm Building
 
-- 🏥 **[Doctolib](https://www.doctolib.fr)** - AI-native solutions at the forefront of innovation in the health tech sector
+- 🏥 **[Doctolib](https://www.doctolib.fr)** - AI-native solutions in the health tech sector
 - 🎮 **[esport_ics](https://github.com/snutij/esport_ics)** - ICS calendars for esport teams — never miss a match
 
 ## OSS Contributions
