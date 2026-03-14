@@ -12,6 +12,7 @@
 ## What I'm Building
 
 - 🏥 **[Doctolib](https://www.doctolib.fr)** - AI-native solutions in the health tech sector
+- 💰 **[tally](https://github.com/snutij/tally)** - Personal finance CLI — budget tracking & reporting
 - 🎮 **[esport_ics](https://github.com/snutij/esport_ics)** - ICS calendars for esport teams — never miss a match
 - 📷 **[bw-evaluation](https://github.com/snutij/bw-evaluation)** - Pre-filter and select best B&W candidates from large photo collections
 
