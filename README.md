@@ -15,6 +15,7 @@
 - 💰 **[tally](https://github.com/snutij/tally)** - Personal finance CLI — budget tracking & reporting
 - 🎮 **[esport_ics](https://github.com/snutij/esport_ics)** - ICS calendars for esport teams — never miss a match
 - 📷 **[bw-evaluation](https://github.com/snutij/bw-evaluation)** - Pre-filter and select best B&W candidates from large photo collections
+- 🎨 **[draw-pixels](https://github.com/snutij/draw-pixels)** - Mouse-driven pixel art canvas
 
 ## OSS Contributions
 
@@ -23,7 +24,6 @@
 
 ### Legacy
 
-- 🎨 **[draw-pixels](https://github.com/snutij/draw-pixels)** - Mouse-driven pixel art canvas
 - 💬 **[ChatroomReact](https://github.com/snutij/ChatroomReact)** - Real-time chat with React, Node & Socket.io
 - 🧠 **[memoryJs](https://github.com/snutij/memoryJs)** - Classic memory card game in vanilla JS
 - ✅ **[TodoList](https://github.com/snutij/TodoList)** - Todolist app built with Angular
