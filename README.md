@@ -12,6 +12,7 @@
 ## What I'm Building
 
 - 🏥 **[Doctolib](https://www.doctolib.fr)** - AI-native solutions in the health tech sector
+- 🛡️ **[SponsorBlockSafari](https://github.com/snutij/SponsorBlockSafari)** - Free macOS Safari builds for SponsorBlock, with local Apple ID signing instructions
 - 🎮 **[esport_ics](https://github.com/snutij/esport_ics)** - ICS calendars for esport teams — never miss a match
 - 📷 **[bw-evaluation](https://github.com/snutij/bw-evaluation)** - Pre-filter and select best B&W candidates from large photo collections
 - 🎨 **[draw-pixels](https://github.com/snutij/draw-pixels)** - Mouse-driven pixel art canvas
