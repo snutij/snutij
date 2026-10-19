@@ -12,7 +12,7 @@
 
 - 🏥 **[Doctolib](https://www.doctolib.fr)** - AI-native solutions in the health tech sector
 - 🎮 **[esport_ics](https://github.com/snutij/esport_ics)** - ICS calendars for esport teams — never miss a match
-- 🛡️ **[SponsorBlockSafari](https://github.com/snutij/SponsorBlockSafari)** - Free macOS Safari builds for SponsorBlock, with local Apple ID signing instructions
+- 🛡️ **[SponsorBlockSafari](https://github.com/snutij/SponsorBlockSafari)** - Free macOS Safari builds for SponsorBlock
 - 🍷 **[Cave Vinum](https://github.com/snutij/cave-vinum)** - Track your wine collection with a clean report
 - 📷 **[bw_evaluation](https://github.com/snutij/bw-evaluation)** - Rank colour photos for black-and-white potential
 - 🎨 **[draw-pixels](https://github.com/snutij/draw-pixels)** - Mouse-driven pixel art canvas
